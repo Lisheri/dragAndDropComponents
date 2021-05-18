@@ -1,0 +1,13 @@
+h1, p {
+    font-family: Lato;
+  }
+.wuping {
+  max-width: 168px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: block;
+}
+.ant-table-summary .ant-table-cell {
+  text-align: center;
+}
